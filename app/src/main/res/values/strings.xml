@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestGitFlow</string>
+    <string name="txt_login">Login</string>
+</resources>
